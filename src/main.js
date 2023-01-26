@@ -2,7 +2,7 @@ import MyCompany from "./company.js";
 import QuotationTable from "./table.js";
 import ClientCompany from "./client.js"
 import DateAndNumber from "./date.js"
-import company from "../config/config.js"
+import company from "../config/setting.js"
 
 /**
  * @param {number} 1: 見積書 2:納品書 3:請求書
